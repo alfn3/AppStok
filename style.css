@@ -83,6 +83,7 @@ body .container .calculator span.clear:hover {
     background: rgba(255, 0, 0, 0.644);
   }
 body .container .calculator span.clear:active {
+    color: black;
     background: rgb(255, 0, 0);
 }
 
@@ -95,6 +96,7 @@ body .container .calculator span.equal:hover {
     background: rgba(0, 255, 0, 0.692);
   }
 body .container .calculator span.equal:active {
+    color: black;
     background: rgb(0, 255, 0);
   }
 body .container .calculator span:hover {
